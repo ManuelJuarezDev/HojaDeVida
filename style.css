@@ -1,0 +1,51 @@
+body{
+    text-align: justify;
+    width: 800px;
+    align-content: center;
+    padding: 20px;
+    font-family: 'Raleway', sans-serif;
+    font-size: 16px;
+}
+
+img{
+    width: 150px;
+    height: 150px;
+    margin: 25px
+}
+
+h2{
+    text-align: center;
+
+}
+
+h4{
+    color: rgb(57, 55, 63);
+}
+
+p{
+    color: rgb(103, 11, 252)
+}
+
+#header{
+    display: inline-flex;
+}
+
+#rprofesional{
+    background-color: gainsboro;
+    padding: 15px;
+}
+
+#hlaboral{
+    color: white;
+    padding: 15px;
+}
+
+#formacion{
+    background-color: gainsboro;
+    padding: 15px;
+}
+
+#content{
+    background-color: rgb(0, 204, 255);
+    padding: 15px;
+}
